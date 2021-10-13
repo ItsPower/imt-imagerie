@@ -62,13 +62,16 @@ while(True):
             #cv2.putText(result, str(j+1), (x, y), cv2.FONT_HERSHEY_SIMPLEX, 0.3, (0,0,255))
             j = j + 1
 
+# getting all files of mask folder
         for file in os.listdir("masks"):
+# verifying existence of csv and png names files
             if file.endswith(".csv") and os.path.isfile("masks/"+file.split(".")[0]+".png"):
                 #print("file: "+file+" has csv and image")
 
                 mask_csv = "masks/"+file;
                 mask_image = "masks/"+file.split(".")[0]+".png";
 
+# openning csv file: landmark,src_x,src_y,translation_x,translation_y
                 with open(mask_csv) as csv_file:
                     csv_reader = csv.reader(csv_file, delimiter=",")
                     tmp_landmarks = []
