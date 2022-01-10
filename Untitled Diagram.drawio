@@ -1,1 +1,145 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T11:31:12.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="YJBGSfCVQnzzFcHOr8ZU" version="16.2.2" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-10T11:59:06.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="oTavwu_-0fddU1qewFz8" version="16.2.2" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="Excel files" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=1;shadow=0;strokeWidth=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="80" y="80" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=1;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+          <mxGeometry x="55" y="80" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-1" value="Users" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=1;shadow=0;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-12" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=1;shadow=0;strokeWidth=1;" vertex="1" parent="sN53Vm5Z5Un1fkBHyp6P-1">
+          <mxGeometry x="55" y="80" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-20" value="&amp;nbsp;requested data&amp;nbsp;" style="endArrow=classic;html=1;rounded=1;entryX=1.4;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.1;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="sN53Vm5Z5Un1fkBHyp6P-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="210" as="sourcePoint" />
+            <mxPoint x="68" y="210.07999999999993" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="178" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-21" value="&amp;nbsp;exports to Excel files&amp;nbsp;" style="endArrow=classic;html=1;rounded=1;entryX=1.4;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.1;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="sN53Vm5Z5Un1fkBHyp6P-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="230" as="sourcePoint" />
+            <mxPoint x="-172" y="230.07999999999993" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-62" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-3" value="SAP GUI" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=1;shadow=0;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-8" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=1;shadow=0;strokeWidth=1;" vertex="1" parent="sN53Vm5Z5Un1fkBHyp6P-3">
+          <mxGeometry x="55" y="80" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-5" value="SAP servers" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=1;shadow=0;strokeWidth=1;gradientColor=none;fillColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="800" y="80" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-11" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=1;shadow=0;strokeWidth=1;" vertex="1" parent="sN53Vm5Z5Un1fkBHyp6P-5">
+          <mxGeometry x="55" y="70" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-18" value="&amp;nbsp;LT22 || ZRLEVS10&amp;nbsp;" style="endArrow=classic;html=1;rounded=1;entryX=0.1;entryY=0.294;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.438;exitDx=0;exitDy=0;exitPerimeter=0;spacingLeft=3;" edge="1" parent="sN53Vm5Z5Un1fkBHyp6P-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-175" y="170.60000000000005" as="sourcePoint" />
+            <mxPoint x="50" y="170.00000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-7" value="&amp;nbsp;Enter creditentials by hand&amp;nbsp;" style="endArrow=classic;html=1;rounded=1;exitX=0.9;exitY=0.056;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sN53Vm5Z5Un1fkBHyp6P-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="167" as="sourcePoint" />
+            <mxPoint x="610" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-13" value="&amp;nbsp;Authentication&amp;nbsp;" style="endArrow=classic;html=1;rounded=1;entryX=0.1;entryY=0.294;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.1;exitY=0.238;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="626" y="183.08000000000004" as="sourcePoint" />
+            <mxPoint x="856" y="182.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-14" value="&amp;nbsp;OK&amp;nbsp;" style="endArrow=classic;html=1;rounded=1;entryX=1.4;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.1;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="856" y="200.96000000000004" as="sourcePoint" />
+            <mxPoint x="629" y="201.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-16" value="&amp;nbsp;LT22 || ZRLEVS10&amp;nbsp;" style="endArrow=classic;html=1;rounded=1;entryX=0.1;entryY=0.294;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.438;exitDx=0;exitDy=0;exitPerimeter=0;spacingLeft=3;" edge="1" parent="1" source="sN53Vm5Z5Un1fkBHyp6P-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="229" as="sourcePoint" />
+            <mxPoint x="610" y="229.47999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-19" value="&amp;nbsp;requested data&amp;nbsp;" style="endArrow=classic;html=1;rounded=1;entryX=1.4;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.1;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="857" y="270.00000000000006" as="sourcePoint" />
+            <mxPoint x="630" y="270.08" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-22" value="Internal SQL DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=1;shadow=0;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-23" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=1;shadow=0;strokeWidth=1;" vertex="1" parent="sN53Vm5Z5Un1fkBHyp6P-22">
+          <mxGeometry x="55" y="180" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-24" value="Program" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=1;shadow=0;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-25" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=1;shadow=0;strokeWidth=1;" vertex="1" parent="sN53Vm5Z5Un1fkBHyp6P-24">
+          <mxGeometry x="55" y="70" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-27" value="exports to DB&amp;nbsp;" style="endArrow=classic;html=1;rounded=1;entryX=1.4;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.1;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="sN53Vm5Z5Un1fkBHyp6P-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="190" as="sourcePoint" />
+            <mxPoint x="-172" y="190.07999999999993" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-62" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-30" value="SAP servers" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=1;shadow=0;strokeWidth=1;gradientColor=none;fillColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="800" y="360" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-31" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=1;shadow=0;strokeWidth=1;" vertex="1" parent="sN53Vm5Z5Un1fkBHyp6P-30">
+          <mxGeometry x="55" y="70" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-34" value="&amp;nbsp;Authentication&amp;nbsp;" style="endArrow=classic;html=1;rounded=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="462" as="sourcePoint" />
+            <mxPoint x="850" y="462" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-35" value="&amp;nbsp;OK&amp;nbsp;" style="endArrow=classic;html=1;rounded=1;exitX=0.1;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="856" y="480.96000000000004" as="sourcePoint" />
+            <mxPoint x="390" y="481" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-37" value="&amp;nbsp;requested data&amp;nbsp;" style="endArrow=classic;html=1;rounded=1;exitX=0.1;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="855" y="540" as="sourcePoint" />
+            <mxPoint x="388" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="738" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN53Vm5Z5Un1fkBHyp6P-32" value="&amp;nbsp;Equivalent of: LT22 || ZRLEVS10 or others SAP functions&amp;nbsp;" style="endArrow=classic;html=1;rounded=1;spacingLeft=3;exitX=1.4;exitY=0.642;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sN53Vm5Z5Un1fkBHyp6P-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="516" as="sourcePoint" />
+            <mxPoint x="850" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
